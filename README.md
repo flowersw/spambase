@@ -1,6 +1,3 @@
-Finished normal mode. Just run through the notebook
-
-
 # Classifying spam
 
 ## Description
